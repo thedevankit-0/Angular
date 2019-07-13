@@ -59,48 +59,48 @@ Angular Required Packages in Any Project.
 - Installion steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 ### Jquery:
-    - Link: (https://www.npmjs.com/package/jquery) 
-    - Installion steps:
+   - Link: (https://www.npmjs.com/package/jquery) 
+   - Installion steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
 
 ### Image slider:
-    - npm install angular-image-slider --save
-    - Link: (https://www.npmjs.com/package/angular-image-slider)
+   - npm install angular-image-slider --save
+   - Link: (https://www.npmjs.com/package/angular-image-slider)
 
 ### Angular Custom Scrollbar:
-    - npm i -S ngx-scrollbar @angular/cdk
-    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
+   - npm i -S ngx-scrollbar @angular/cdk
+   - Link: (https://www.npmjs.com/package/ngx-scrollbar)
 
 ### Search Filters:
-    - npm i ng2-search-filter --save
-    - Link: (https://www.npmjs.com/package/ng2-search-filter)
+   - npm i ng2-search-filter --save
+   - Link: (https://www.npmjs.com/package/ng2-search-filter)
 
 ### Toster :
-    - npm install ngx-toastr --save
-    - Link: (https://www.npmjs.com/package/ngx-toastr)
+   - npm install ngx-toastr --save
+   - Link: (https://www.npmjs.com/package/ngx-toastr)
 
 ### Slider:
-    - npm install --save ng5-slider
-    - Link: (https://www.npmjs.com/package/ng5-slider)
+   - npm install --save ng5-slider
+   - Link: (https://www.npmjs.com/package/ng5-slider)
     
 ### spinner
-    - npm install ngx-spinner --save
-    - Link: (https://www.npmjs.com/package/ngx-spinner)
+   - npm install ngx-spinner --save
+   - Link: (https://www.npmjs.com/package/ngx-spinner)
 
 ### ReactiveFormsModule:
-    - https://angular.io/api/forms/ReactiveFormsModule
+   - https://angular.io/api/forms/ReactiveFormsModule
 
 ### Google Recaptcha:
-    - npm i ng-recaptcha --save
-    - Link: (https://www.npmjs.com/package/ng-recaptcha)
+   - npm i ng-recaptcha --save
+   - Link: (https://www.npmjs.com/package/ng-recaptcha)
 
 ### Angular Scroll Bar
-    - npm i -S ngx-scrollbar @angular/cdk
-    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
+   - npm i -S ngx-scrollbar @angular/cdk
+   - Link: (https://www.npmjs.com/package/ngx-scrollbar)
 
 ### Pagination:
-    - npm install ngx-pagination --save
-    - Link: (https://www.npmjs.com/package/ngx-pagination)
+   - npm install ngx-pagination --save
+   - Link: (https://www.npmjs.com/package/ngx-pagination)
     
     
     

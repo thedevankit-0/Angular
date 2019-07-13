@@ -54,14 +54,13 @@ Angular Required Packages in Any Project.
     
 ## Important Packages
 ### Bootstarp:
-- Link:  
-- Bootstrap:  (https://www.npmjs.com/package/bootstrap)
+- Link:  (https://www.npmjs.com/package/bootstrap)
 - Installion steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 ### Jquery:
-   - Link: (https://www.npmjs.com/package/jquery) 
    - Installion steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
+   - Link: (https://www.npmjs.com/package/jquery) 
 
 ### Image slider:
    - npm install angular-image-slider --save

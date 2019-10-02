@@ -107,9 +107,15 @@ https://www.tutorialspoint.com/angular7/index.htm
 https://angular.io/tutorial
 
 ## Video Tutorials
-https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+1. https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
 
-https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh
+2. https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh
+
+3. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
+
+## Podcast for angular
+   1. [Angular Air](https://angularair.com)
+   2. [Adventures in Angular](https://devchat.tv/adv-in-angular/)
     
     
     

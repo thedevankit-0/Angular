@@ -53,12 +53,13 @@ Angular Required Packages in Any Project.
     ng g guard guard name
     
 ## Important Packages
-### Bootstarp:
+### Bootstrap:
 - Link:  (https://www.npmjs.com/package/bootstrap)
-- Installion steps:
+- Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
+
 ### Jquery:
-   - Installion steps:
+   - Installation steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
    - Link: (https://www.npmjs.com/package/jquery) 
 

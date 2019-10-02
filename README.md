@@ -58,6 +58,10 @@ Angular Required Packages in Any Project.
 - Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 
+### Components and Material Design for Angular
+- ng add @angular/material
+- Link:  (https://www.npmjs.com/package/@angular/material)
+
 ### Jquery:
    - Installation steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
@@ -103,6 +107,8 @@ Angular Required Packages in Any Project.
    - Link: (https://www.npmjs.com/package/ngx-pagination)
     
 ## Web Tutorials 
+https://angular.io/start
+
 https://www.tutorialspoint.com/angular7/index.htm
 
 https://angular.io/tutorial

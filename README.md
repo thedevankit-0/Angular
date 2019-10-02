@@ -1,11 +1,11 @@
-#  Angular Notes and Cheatsheet 
+#  Angular Notes and Cheatsheet and Learning Kit
 
 Angular Required Packages in Any Project.
 
-## Installing Angular CLI:
+### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
 
-## To create Your First Angular App:
+### To create Your First Angular App:
     ng new newapp
      
   Eg:
@@ -16,7 +16,7 @@ Angular Required Packages in Any Project.
 
 
 
-##  To Run an Angular Application:
+###  To Run an Angular Application:
     1) ng -s -o (Open angular app in browser.)
     2) ng -s (Run the angular app.)
     3) ng serve --open --port port_number (Open angular app at specified port number.)
@@ -27,28 +27,28 @@ Angular Required Packages in Any Project.
 ```
 
 
-## To Generate Components:
+### To Generate Components:
     1) ng generate component component name
     2) ng g c component name
 
 
-## To generate  module 
+### To generate  module 
     ng generate module service module name  
     ng g module module name
 
 
 
-## To generate interface:
+### To generate interface:
      ng generate interface interface name
      ng g interface interface name
 
 
-## To generate service:
+### To generate service:
     ng generate service service name
     ng g service service name   
 
 
-##  To generate guard:
+###  To generate guard:
     ng generate guard guard name
     ng g guard guard name
     
@@ -101,7 +101,15 @@ Angular Required Packages in Any Project.
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
     
-    
+## Web Tutorials 
+https://www.tutorialspoint.com/angular7/index.htm
+
+https://angular.io/tutorial
+
+## Video Tutorials
+https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+
+https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh
     
     
     

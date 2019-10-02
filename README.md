@@ -113,6 +113,8 @@ https://angular.io/tutorial
 
 3. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
 
+4. https://www.youtube.com/watch?v=Fdf5aTYRW0E
+
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)
    2. [Adventures in Angular](https://devchat.tv/adv-in-angular/)

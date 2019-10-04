@@ -1,4 +1,4 @@
-#  Angular Notes and Cheatsheet and Learning Kit
+#  Angular Notes/Cheatsheet and Learning Kit
 
 ## Contents:
    #### 1) Installation steps and basic 

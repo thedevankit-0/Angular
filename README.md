@@ -1,5 +1,15 @@
 #  Angular Notes and Cheatsheet and Learning Kit
 
+## Contents:
+   ### 1) Installation steps and basic 
+   ### 2) Important Packages
+   ### 3) Web Tutorials 
+   ### 4) Video Tutorials
+   ### 5) Podcast for angular
+   ### 6) Blogs 
+
+
+
 Angular Required Packages in Any Project.
 
 ### Installing Angular CLI:
@@ -107,11 +117,10 @@ Angular Required Packages in Any Project.
    - Link: (https://www.npmjs.com/package/ngx-pagination)
     
 ## Web Tutorials 
-https://angular.io/start
-
-https://www.tutorialspoint.com/angular7/index.htm
-
-https://angular.io/tutorial
+1. https://angular.io/start
+2. https://www.tutorialspoint.com/angular7/index.htm
+3. https://angular.io/tutorial
+4. https://www.thetechieshouse.com/
 
 ## Video Tutorials
 1. https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
@@ -122,9 +131,20 @@ https://angular.io/tutorial
 
 4. https://www.youtube.com/watch?v=Fdf5aTYRW0E
 
+5. [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
+
+6. [Angular Tutorial for Beginners: Learn Angular from Scratch | Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
+
+7. [Angular Material Tutorial](https://www.youtube.com/watch?v=bV8emCBmFHk&list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU)
+
+8. [Learn Angular 2,4,5 Online Training](https://www.youtube.com/watch?v=BGaPNvay5e8&list=PLd3UqWTnYXOk9-_CYxIy-Vayx3iV55QDt)
+
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)
    2. [Adventures in Angular](https://devchat.tv/adv-in-angular/)
     
-    
-    
+## Blogs 
+   1. [Build A Real World Beautiful Web APP with Angular 8](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)   
+   2. [Angular Blogs](https://blog.angular.io)
+   3. [Adv-in-Angular](https://devchat.tv/adv-in-angular)
+   4. [Sitepen](https://www.sitepen.com/blog/category/angular/)

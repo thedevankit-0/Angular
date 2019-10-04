@@ -1,16 +1,13 @@
 #  Angular Notes and Cheatsheet and Learning Kit
 
 ## Contents:
-   ### 1) Installation steps and basic 
-   ### 2) Important Packages
-   ### 3) Web Tutorials 
-   ### 4) Video Tutorials
-   ### 5) Podcast for angular
-   ### 6) Blogs 
-
-
-
-Angular Required Packages in Any Project.
+   #### 1) Installation steps and basic 
+   #### 2) Important Packages
+   #### 3) Web Tutorials 
+   #### 4) Video Tutorials
+   #### 5) Podcast for angular
+   #### 6) Blogs 
+   #### 7) Projects with angular to contribute
 
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
@@ -148,8 +145,15 @@ Angular Required Packages in Any Project.
    2. [Angular Blogs](https://blog.angular.io)
    3. [Adv-in-Angular](https://devchat.tv/adv-in-angular)
    4. [Sitepen](https://www.sitepen.com/blog/category/angular/)
-
-
+   
+## Projects with angular to contribute
+   1. [NGX-Admin](https://github.com/akveo/ngx-admin)
+   2. [Angular google maps](https://github.com/SebastianM/angular-google-maps)
+   3. [NGX-charts](https://github.com/swimlane/ngx-charts)
+   4. [Storybook](https://github.com/storybookjs/storybook)
+   5. [Angularfire2](https://github.com/angular/angularfire2)
+   6. [Angular Material](https://github.com/angular/components)
+   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure you are adding valuable content to the file.

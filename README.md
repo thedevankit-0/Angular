@@ -148,3 +148,8 @@ Angular Required Packages in Any Project.
    2. [Angular Blogs](https://blog.angular.io)
    3. [Adv-in-Angular](https://devchat.tv/adv-in-angular)
    4. [Sitepen](https://www.sitepen.com/blog/category/angular/)
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure you are adding valuable content to the file.

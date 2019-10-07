@@ -112,6 +112,10 @@
 ### Pagination:
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
+
+### CSS Toolkit:
+   - Link: https://tachyons.io/
+      A lightweight CSS Toolkit that is good for your angular app.
     
 ## Web Tutorials 
 1. https://angular.io/start

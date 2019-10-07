@@ -115,7 +115,7 @@
 
 ### CSS Toolkit:
    - Link: https://tachyons.io/
-      A lightweight CSS Toolkit that is good for your angular app.
+      A lightweight CSS Toolkit that is good for your angular application.
     
 ## Web Tutorials 
 1. https://angular.io/start

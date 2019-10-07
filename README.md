@@ -149,7 +149,8 @@
    2. [Angular Blogs](https://blog.angular.io)
    3. [Adv-in-Angular](https://devchat.tv/adv-in-angular)
    4. [Sitepen](https://www.sitepen.com/blog/category/angular/)
-   
+   5. [Principles For Better, Cleaner Code](https://dev.to/x-team/6-principles-to-for-better-cleaner-code-1j1j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ## Projects with angular to contribute
    1. [NGX-Admin](https://github.com/akveo/ngx-admin)
    2. [Angular google maps](https://github.com/SebastianM/angular-google-maps)
@@ -157,6 +158,12 @@
    4. [Storybook](https://github.com/storybookjs/storybook)
    5. [Angularfire2](https://github.com/angular/angularfire2)
    6. [Angular Material](https://github.com/angular/components)
+
+## Tools to combine with your angular application ()
+   1. [GraphQL](https://www.apollographql.com/docs/angular/)
+      - Great for big scope application and multiple endpoints.
+   2. [RSCSS](https://rscss.io)
+      - A styleguide for creating styles, made by a filipino github contributor.
    
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -1,13 +1,13 @@
 #  Angular Notes/Cheatsheet and Learning Kit
 
 ## Contents:
-   #### 1) Installation steps and basic 
-   #### 2) Important Packages
-   #### 3) Web Tutorials 
-   #### 4) Video Tutorials
-   #### 5) Podcast for angular
-   #### 6) Blogs 
-   #### 7) Projects with angular to contribute
+   - 1) Installation steps and basic
+   - 2) Important Packages
+   - 3) Web Tutorials 
+   - 4) Video Tutorials
+   - 5) Podcast for angular
+   - 6) Blogs 
+   - 7) Projects with angular to contribute
 
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli

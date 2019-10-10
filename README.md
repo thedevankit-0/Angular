@@ -150,6 +150,7 @@
    3. [Adv-in-Angular](https://devchat.tv/adv-in-angular)
    4. [Sitepen](https://www.sitepen.com/blog/category/angular/)
    5. [Principles For Better, Cleaner Code](https://dev.to/x-team/6-principles-to-for-better-cleaner-code-1j1j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+   6. [Learn Angular 8 Step By Step in 10 Days ](https://www.c-sharpcorner.com/article/learn-angular-8-step-by-step-in-10-days-day-1/)
 
 ## Projects with angular to contribute
    1. [NGX-Admin](https://github.com/akveo/ngx-admin)

@@ -8,7 +8,8 @@
    - Podcast for angular
    - Blogs 
    - Projects with angular to contribute
-
+   - Angular common errors (How to solve)
+   
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
 
@@ -165,7 +166,9 @@
       - Great for big scope application and multiple endpoints.
    2. [RSCSS](https://rscss.io)
       - A styleguide for creating styles, made by a filipino github contributor.
-   
+      
+## Angular common errors (How to solve)
+   1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure you are adding valuable content to the file.

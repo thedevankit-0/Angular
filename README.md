@@ -126,7 +126,7 @@
 4. https://www.thetechieshouse.com/
 
 ## Video Tutorials
-1. https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+1. [Angular 8 Tutorial by Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
 2. https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh
 

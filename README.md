@@ -5,6 +5,7 @@
    - Important Packages
    - Web Tutorials 
    - Video Tutorials
+   - Courses
    - Podcast for angular
    - Blogs 
    - Projects with angular to contribute

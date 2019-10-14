@@ -128,11 +128,11 @@
 ## Video Tutorials
 1. [Angular 8 Tutorial by Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
-2. https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh
+2. [Angular 7 Full Tutorial in Hindi](https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh)
 
 3. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
 
-4. https://www.youtube.com/watch?v=Fdf5aTYRW0E
+4. [Angular Crash Course - 2019](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
 
 5. [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 

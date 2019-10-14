@@ -141,6 +141,15 @@
 
 8. [Learn Angular 2,4,5 Online Training](https://www.youtube.com/watch?v=BGaPNvay5e8&list=PLd3UqWTnYXOk9-_CYxIy-Vayx3iV55QDt)
 
+## Courses
+
+1. [Angular and NodeJS - The Mean Stack Guide] (https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-rJw2OvTgG9qeT8xdaxcRPQ)
+
+2. [Shaping up with AngularJS] (https://www.pluralsight.com/courses/angularjs-get-started?clickid=Xj8ySQXa4xyJW5zwUx0Mo3QzUkn2vHxeFz3s1w0&irgwc=1&mpid=1419154&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1419154&aid=7010a000001xAKZAA2)
+
+3. [Angular 8 The Complete Guide] (https://www.udemy.com/course/the-complete-guide-to-angular-2/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-VIh0RH5MxSrf2kWMlXlH2A)
+
+
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)
    2. [Adventures in Angular](https://devchat.tv/adv-in-angular/)

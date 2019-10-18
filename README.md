@@ -1,7 +1,7 @@
 #  Angular Notes/Cheatsheet and Learning Kit
 
 ## Contents:
-   - Installation steps and basic
+   + [Installation steps and basic](#Installing-Angular-CLI)
    - Important Packages
    - Web Tutorials 
    - Video Tutorials

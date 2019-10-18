@@ -2,14 +2,14 @@
 
 ## Contents:
    + [Installation steps and basic](#Installing-Angular-CLI)
-   - Important Packages
-   - Web Tutorials 
-   - Video Tutorials
-   - Courses
-   - Podcast for angular
-   - Blogs 
-   - Projects with angular to contribute
-   - Angular common errors (How to solve)
+   + [Important Packages](#Important-Packages)
+   + [Web Tutorials](#Web-Tutorials )
+   + [Video Tutorials](#Video-Tutorials)
+   + [Courses](#Courses)
+   + [Podcast for angular](#Podcast-for-angular)
+   + [Blogs](#Blogs) 
+   + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
+   + [Angular common errors](#Angular-common-errors)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
@@ -181,7 +181,8 @@
    2. [RSCSS](https://rscss.io)
       - A styleguide for creating styles, made by a filipino github contributor.
       
-## Angular common errors (How to solve)
+## Angular common errors 
+   **(How to solve)**
    1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
    2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
    

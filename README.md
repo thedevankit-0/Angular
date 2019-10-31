@@ -122,9 +122,9 @@
 ### Json Server
    - npm install -g json-server
  **To Run json server**
-    1. json-server --watch db.json
-    2. json-server --watch db.json --port 3004
-    
+   1. json-server --watch db.json
+   2. json-server --watch db.json --port 3004
+
    - Link: https://www.npmjs.com/package/json-server
 
 ## Web Tutorials 

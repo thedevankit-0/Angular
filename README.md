@@ -119,14 +119,13 @@
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.
 
-### Json Server 
-   **Installtion Steps**
-    - json-server --watch db.json
-   
-   **To Run json server**
+### Json Server
+   - npm install -g json-server
+ **To Run json server**
     - json-server --watch db.json
     - json-server --watch db.json --port 3004
-    - Link: https://www.npmjs.com/package/json-server
+    
+   - Link: https://www.npmjs.com/package/json-server
 
 ## Web Tutorials 
 1. https://angular.io/start

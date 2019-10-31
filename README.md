@@ -120,13 +120,14 @@
       A lightweight CSS Toolkit that is good for your angular application.
 
 ### Json Server 
-   **To Run json server**
-    - json-server --watch db.json15:21
-    - json-server --watch db.json --port 3004
-    - *Installtion Link 
-       1. https://www.npmjs.com/package/json-server
    **Installtion Steps**
-      -json-server --watch db.json
+    - json-server --watch db.json
+   
+   **To Run json server**
+    - json-server --watch db.json
+    - json-server --watch db.json --port 3004
+    - Link: https://www.npmjs.com/package/json-server
+
 ## Web Tutorials 
 1. https://angular.io/start
 2. https://www.tutorialspoint.com/angular7/index.htm

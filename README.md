@@ -151,7 +151,7 @@
 
 8. [Learn Angular 2,4,5 Online Training](https://www.youtube.com/watch?v=BGaPNvay5e8&list=PLd3UqWTnYXOk9-_CYxIy-Vayx3iV55QDt)
 
-9.[Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
+9. [Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
 
 ## Courses
 

@@ -196,7 +196,12 @@
    **(How to solve)**
    1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
    2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
+
+
+
+## How can I support / Contributing
+   Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
    
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure you are adding valuable content to the file.
+ - **Please make sure you are adding valuable content to the file.**
+ - **Star this GitHub Repo**
+ - **Create pull requests, submit bugs, suggest new links**

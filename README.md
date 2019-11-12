@@ -133,7 +133,7 @@
 2. https://www.tutorialspoint.com/angular7/index.htm
 3. https://angular.io/tutorial
 4. https://www.thetechieshouse.com/
-
+5. [angular-beginners-guide](https://malcoded.com/posts/angular-beginners-guide/)
 ## Video Tutorials
 1. [Angular 8 Tutorial by Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 

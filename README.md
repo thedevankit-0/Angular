@@ -194,15 +194,16 @@
       
 ## Angular common errors and features
    **(How to solve)**
-   1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
-   
-   2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
-   
-   3. [angular-jwt](https://angular-academy.com/angular-jwt/)
-   
-   4.[angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
-   
-   5.[Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
+
+ 1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
+
+ 2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
+
+ 3. [angular-jwt](https://angular-academy.com/angular-jwt/)
+
+ 4.[angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
+
+ 5.[Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
 
 
 

@@ -201,9 +201,9 @@
 
  3. [angular-jwt](https://angular-academy.com/angular-jwt/)
 
- 4.[angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
+ 4. [angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
 
- 5.[Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
+ 5. [Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
 
 
 

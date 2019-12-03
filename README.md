@@ -115,18 +115,19 @@
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
 
+### angular text input autocomplete
+   - npm i angular-ng-autocomplete
+   - Link : https://www.npmjs.com/package/angular-ng-autocomplete
 ### CSS Toolkit:
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.
 
 ### Json Server
    - npm install -g json-server
- 
- **To Run json server**
-   1. json-server --watch db.json
-   2. json-server --watch db.json --port 3004
-
-   - Link: https://www.npmjs.com/package/json-server
+  **To Run json server**
+      1. json-server --watch db.json
+      2. json-server --watch db.json --port 3004
+      - Link: https://www.npmjs.com/package/json-server
 
 ## Web Tutorials 
 1. https://angular.io/start

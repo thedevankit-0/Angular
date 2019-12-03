@@ -123,7 +123,7 @@
       A lightweight CSS Toolkit that is good for your angular application.
 
 ### Json Server
-   - npm install -g json-server
+   - npm install -g json-server <br>
   **To Run json server**
       1. json-server --watch db.json
       2. json-server --watch db.json --port 3004

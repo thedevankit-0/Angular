@@ -118,6 +118,7 @@
 ### angular text input autocomplete
    - npm i angular-ng-autocomplete
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete
+   - Example Link: https://stackblitz.com/edit/angular-ng-autocomplete?file=src%2Fapp%2Fapp.module.ts
 ### CSS Toolkit:
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.

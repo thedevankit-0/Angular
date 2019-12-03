@@ -67,6 +67,10 @@
 - Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 
+### Ng Bootsttrap
+- npm install --save @ng-bootstrap/ng-bootstrap
+- Link : https://ng-bootstrap.github.io/#/home
+
 ### Components and Material Design for Angular
 - ng add @angular/material
 - Link:  (https://www.npmjs.com/package/@angular/material)

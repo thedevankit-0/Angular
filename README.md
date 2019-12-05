@@ -80,6 +80,9 @@
         Add Jquery js before bootstrap js in angular.json  at style and script.
    - Link: (https://www.npmjs.com/package/jquery) 
 
+### Multiple select 
+   - npm install --save @ng-select/ng-select
+   - https://www.npmjs.com/package/@ng-select/ng-select
 ### Image slider:
    - npm install angular-image-slider --save
    - Link: (https://www.npmjs.com/package/angular-image-slider)

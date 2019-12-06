@@ -213,6 +213,8 @@
  4. [angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
 
  5. [Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
+ 
+ 6. [Uploading-files-in-angular2](https://nehalist.io/uploading-files-in-angular2/)
 
 
 

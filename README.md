@@ -171,6 +171,10 @@
 
 3. [Angular 8 The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-VIh0RH5MxSrf2kWMlXlH2A)
 
+4. [Angular front to back](https://www.udemy.com/course/angular-4-front-to-back/)
+
+5.[The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
+
 
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)

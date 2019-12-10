@@ -173,7 +173,7 @@
 
 4. [Angular front to back](https://www.udemy.com/course/angular-4-front-to-back/)
 
-5.[The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
+5. [The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
 
 
 ## Podcast for angular

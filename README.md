@@ -213,13 +213,15 @@
 
  2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
 
- 3. [angular-jwt](https://angular-academy.com/angular-jwt/)
+ 3. [Angular-jwt](https://angular-academy.com/angular-jwt/)
 
- 4. [angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
+ 4. [Angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
 
  5. [Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
  
  6. [Uploading-files-in-angular2](https://nehalist.io/uploading-files-in-angular2/)
+ 
+ 7. [Setup-a-proxy-for-api-calls](https://medium.com/better-programming/setup-a-proxy-for-api-calls-for-your-angular-cli-app-6566c02a8c4d?)
 
 
 

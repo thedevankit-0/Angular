@@ -9,7 +9,7 @@
    + [Podcast for angular](#Podcast-for-angular)
    + [Blogs](#Blogs) 
    + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
-   + [Angular common errors](#Angular-common-errors)
+   + [Angular common errors and features](#Angular-common-errors-and-features)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli

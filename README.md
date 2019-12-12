@@ -1,4 +1,5 @@
 #  Angular Notes/Cheatsheet and Learning Kit
+[![HitCount](http://hits.dwyl.io/anki7s/Angular.svg)](http://hits.dwyl.io/anki7s/Angular)
 
 ## Contents:
    + [Installation steps and basic](#Installing-Angular-CLI)

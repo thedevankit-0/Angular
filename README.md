@@ -123,6 +123,11 @@
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
 
+### NGX-Moment :
+   - npm install --save moment ngx-moment
+   - Link: https://www.npmjs.com/package/ngx-moment
+      Using Moment JS as a Pipe Angular for date time 
+      
 ### angular text input autocomplete
    - npm i angular-ng-autocomplete
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete

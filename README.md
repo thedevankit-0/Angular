@@ -205,6 +205,7 @@
    4. [Storybook](https://github.com/storybookjs/storybook)
    5. [Angularfire2](https://github.com/angular/angularfire2)
    6. [Angular Material](https://github.com/angular/components)
+   7. [Angular-chat-sentiment-analysis](https://pusher.com/tutorials/angular-chat-sentiment-analysis)
 
 ## Tools to combine with your angular application ()
    1. [GraphQL](https://www.apollographql.com/docs/angular/)

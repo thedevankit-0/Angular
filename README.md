@@ -142,6 +142,10 @@
       1. json-server --watch db.json
       2. json-server --watch db.json --port 3004
       - Link: https://www.npmjs.com/package/json-server
+### http-server-spa
+   - npm install http-server-spa -g
+   - Usage: http-server-spa <directory> <fallback> <port>
+   - Link: https://www.npmjs.com/package/http-server-spa
 
 ## Web Tutorials 
 1. https://angular.io/start

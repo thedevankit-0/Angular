@@ -103,6 +103,12 @@
 ### Slider:
    - npm install --save ng5-slider
    - Link: (https://www.npmjs.com/package/ng5-slider)
+
+### Emoji for angular
+   - npm install @ctrl/ngx-emoji-mart
+   - Link: https://www.npmjs.com/package/@ctrl/ngx-emoji-mart
+   - Example link: https://github.com/ariang/EasyChat-scrummers
+
     
 ### spinner
    - npm install ngx-spinner --save

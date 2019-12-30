@@ -153,6 +153,12 @@
    - Usage: http-server-spa <directory> <fallback> <port>
    - Link: https://www.npmjs.com/package/http-server-spa
 
+### ngx-lightbox
+   - npm install --save ngx-lightbox
+   - Used for: Imgage pop up 
+   - Link: https://www.npmjs.com/package/ngx-lightbox
+
+
 ## Web Tutorials 
 1. https://angular.io/start
 2. https://www.tutorialspoint.com/angular7/index.htm

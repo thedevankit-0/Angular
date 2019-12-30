@@ -239,6 +239,8 @@
  6. [Uploading-files-in-angular2](https://nehalist.io/uploading-files-in-angular2/)
  
  7. [Setup-a-proxy-for-api-calls](https://medium.com/better-programming/setup-a-proxy-for-api-calls-for-your-angular-cli-app-6566c02a8c4d?)
+ 
+ 8. [404-error-occur-when-i-refresh-through-the-browser](https://stackoverflow.com/questions/35284988/angular-2-404-error-occur-when-i-refresh-through-the-browser)
 
 
 

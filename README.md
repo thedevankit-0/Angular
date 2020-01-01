@@ -165,8 +165,11 @@
 ### PWA App 
    - npm i @angular/pwa
    - Used for: To add PWA feature in angular web app
-   Link: https://www.npmjs.com/package/@angular/pwa
-
+   - Link: https://www.npmjs.com/package/@angular/pwa
+### Google Charts
+   - npm i angular-google-charts
+   - Used for: To add google charts in web app
+   - Link: https://www.npmjs.com/package/angular-google-charts
 ## Web Tutorials 
 1. https://angular.io/start
 2. https://www.tutorialspoint.com/angular7/index.htm

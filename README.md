@@ -133,7 +133,7 @@
    - Link: https://www.npmjs.com/package/ngx-moment
       Using Moment JS as a Pipe Angular for date time 
       
-### angular text input autocomplete
+### Angular text input autocomplete
    - npm i angular-ng-autocomplete
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete
    - Example Link: https://stackblitz.com/edit/angular-ng-autocomplete?file=src%2Fapp%2Fapp.module.ts

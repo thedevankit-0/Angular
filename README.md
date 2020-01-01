@@ -109,7 +109,6 @@
    - Link: https://www.npmjs.com/package/@ctrl/ngx-emoji-mart
    - Example link: https://github.com/ariang/EasyChat-scrummers
 
-    
 ### spinner
    - npm install ngx-spinner --save
    - Link: (https://www.npmjs.com/package/ngx-spinner)
@@ -158,6 +157,15 @@
    - Used for: Imgage pop up 
    - Link: https://www.npmjs.com/package/ngx-lightbox
 
+### ngx-link-preview
+   - npm i ngx-link-preview
+   - Used for: To show link preview
+   - Link: https://www.npmjs.com/package/ngx-link-preview
+   
+### PWA App 
+   - npm i @angular/pwa
+   - Used for: To add PWA feature in angular web app
+   Link: https://www.npmjs.com/package/@angular/pwa
 
 ## Web Tutorials 
 1. https://angular.io/start

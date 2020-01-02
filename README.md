@@ -156,6 +156,9 @@
    - npm install ngx-toastit --save
    - Link: https://monolizard.github.io/ngx-toastit/
    
+### ngx-beautiful charts
+   - npm install ngx-beautiful-charts --save
+   - Link: https://snowpu.github.io/ngx-beautiful-charts/
 
 ### Angular text input autocomplete
    - npm i angular-ng-autocomplete

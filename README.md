@@ -125,6 +125,10 @@
    - npm install ngx-spinner --save
    - Link: (https://www.npmjs.com/package/ngx-spinner)
 
+### ngx-gesture-password (Smart Lock)
+   - Link: https://github.com/cipchk/ngx-gesture-password
+   - Demo: https://cipchk.github.io/ngx-gesture-password/
+
 ### ReactiveFormsModule:
    - https://angular.io/api/forms/ReactiveFormsModule
 

@@ -104,7 +104,11 @@
    - npm install ngx-toastr --save
    - Link: (https://www.npmjs.com/package/ngx-toastr)
    
-### 
+### ngx-face-api (face detection)
+   - ng add ngx-face-api-js
+   - Link: https://ngx-face-api-js-demo.stackblitz.io/
+   
+### Material Carusel
    - npm install @ngmodule/material-carousel --save
    - Link: https://gsr.dev/material2-carousel/
 

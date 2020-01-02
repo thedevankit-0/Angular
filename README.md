@@ -135,15 +135,24 @@
 ### ngx-typed-text (Animation)
    - npm install ngx-typed-text --save
    - https://jghignatti.github.io/ngx-typed-text/
+   
 ### Pagination:
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
+   
+### Angular mat table crud
+   -Link: https://github.com/marinantonio/angular-mat-table-crud
 
 ### NGX-Moment :
    - npm install --save moment ngx-moment
    - Link: https://www.npmjs.com/package/ngx-moment
       Using Moment JS as a Pipe Angular for date time 
       
+### Unobtrusive Toaster
+   - npm install ngx-toastit --save
+   Link: https://monolizard.github.io/ngx-toastit/
+   
+
 ### Angular text input autocomplete
    - npm i angular-ng-autocomplete
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete

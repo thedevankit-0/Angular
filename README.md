@@ -152,6 +152,10 @@
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.
 
+### Data-driven Form Validators
+   - npm install ngx-validate
+   - Link: https://github.com/EdenWoo/ngx-validate
+ 
 ### Json Server
    - npm install -g json-server <br>
   **To Run json server**

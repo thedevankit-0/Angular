@@ -103,6 +103,10 @@
 ### Toster :
    - npm install ngx-toastr --save
    - Link: (https://www.npmjs.com/package/ngx-toastr)
+   
+### 
+   - npm install @ngmodule/material-carousel --save
+   - Link: https://gsr.dev/material2-carousel/
 
 ### Slider:
    - npm install --save ng5-slider
@@ -128,6 +132,9 @@
    - npm i -S ngx-scrollbar @angular/cdk
    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
 
+### ngx-typed-text (Animation)
+   - npm install ngx-typed-text --save
+   - https://jghignatti.github.io/ngx-typed-text/
 ### Pagination:
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)

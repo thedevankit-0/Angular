@@ -146,11 +146,11 @@
 ### NGX-Moment :
    - npm install --save moment ngx-moment
    - Link: https://www.npmjs.com/package/ngx-moment
-      Using Moment JS as a Pipe Angular for date time 
+   - used for: Using Moment JS as a Pipe Angular for date time 
       
 ### Unobtrusive Toaster
    - npm install ngx-toastit --save
-   Link: https://monolizard.github.io/ngx-toastit/
+   - Link: https://monolizard.github.io/ngx-toastit/
    
 
 ### Angular text input autocomplete

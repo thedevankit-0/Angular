@@ -268,6 +268,7 @@
    5. [Angularfire2](https://github.com/angular/angularfire2)
    6. [Angular Material](https://github.com/angular/components)
    7. [Angular-chat-sentiment-analysis](https://pusher.com/tutorials/angular-chat-sentiment-analysis)
+   8. [Music-web-player](https://github.com/naveedgol/music-web-player)
 
 ## Tools to combine with your angular application ()
    1. [GraphQL](https://www.apollographql.com/docs/angular/)

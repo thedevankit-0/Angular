@@ -259,6 +259,7 @@
 
 ## Angular Quick Cheatsheet
    1. [angular-cheat-sheet](https://malcoded.com/angular-cheat-sheet/)
+   2. [Angular-PWA](https://www.altexsoft.com/blog/engineering/progressive-web-apps/)
    
 ## Projects with angular to contribute
    1. [NGX-Admin](https://github.com/akveo/ngx-admin)

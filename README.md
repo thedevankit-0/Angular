@@ -96,6 +96,10 @@
    - npm i ng2-search-filter --save
    - Link: (https://www.npmjs.com/package/ng2-search-filter)
 
+### Loader on service call
+   - npm i ngx-ui-loader
+   - Link: https://www.npmjs.com/package/ngx-ui-loader
+
 ### ngx-skeleton-loader
    - npm install ngx-skeleton-loader --save
    - Used for: Loading content (better ux)

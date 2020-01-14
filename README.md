@@ -11,7 +11,7 @@
    + [Blogs](#Blogs) 
    + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
    + [Angular common errors and features](#Angular-common-errors-and-features)
-   + [Trends in web technology](#Trends in web technology)
+   + [Trends in web technology](#Trends-in-web-technology)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli

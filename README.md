@@ -11,6 +11,7 @@
    + [Blogs](#Blogs) 
    + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
    + [Angular common errors and features](#Angular-common-errors-and-features)
+   + [Trends in web technology](#Trends in web technology)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
@@ -281,6 +282,9 @@
    2. [RSCSS](https://rscss.io)
       - A styleguide for creating styles, made by a filipino github contributor.
       
+## Trends in web technology
+   1. [Tech-trends-showdown-react-vs-angular-vs-vue](https://zerotomastery.io/blog/tech-trends-showdown-react-vs-angular-vs-vue/?utm_source=medium&utm_medium=react-angular-vue)   
+   
 ## Angular common errors and features
    **(How to solve)**
 

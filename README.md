@@ -284,6 +284,8 @@
       
 ## Trends in web technology
    1. [Tech-trends-showdown-react-vs-angular-vs-vue](https://zerotomastery.io/blog/tech-trends-showdown-react-vs-angular-vs-vue/?utm_source=medium&utm_medium=react-angular-vue)   
+   2. [AngularToVue](https://tpalmer75.github.io/AngularToVue/)
+   3. [From-vue-to-angular](https://www.codegram.com/blog/from-vue-to-angular/)
    
 ## Angular common errors and features
    **(How to solve)**

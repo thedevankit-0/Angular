@@ -204,6 +204,10 @@
    - Used for: To show link preview
    - Link: https://www.npmjs.com/package/ngx-link-preview
    
+### Autocomplete user name (@ and username to get auto suggetions):
+   - npm i ngx-input-autocomplete
+   - https://www.npmjs.com/package/ngx-input-autocomplete
+   
 ### PWA App 
    - npm i @angular/pwa
    - Used for: To add PWA feature in angular web app
@@ -212,6 +216,7 @@
    - npm i angular-google-charts
    - Used for: To add google charts in web app
    - Link: https://www.npmjs.com/package/angular-google-charts
+   
 ## Web Tutorials 
 1. https://angular.io/start
 2. https://www.tutorialspoint.com/angular7/index.htm

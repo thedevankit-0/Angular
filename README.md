@@ -243,6 +243,8 @@
 
 9. [Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
 
+10. [Advanced Angular tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
+
 ## Courses
 
 1. [Angular and NodeJS - The Mean Stack Guide](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/?LSNPUBID=jU79Zysihs4&ranEAID=jU79Zysihs4&ranMID=39197&ranSiteID=jU79Zysihs4-rJw2OvTgG9qeT8xdaxcRPQ)

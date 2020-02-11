@@ -316,6 +316,8 @@
  8. [404-error-occur-when-i-refresh-through-the-browser](https://stackoverflow.com/questions/35284988/angular-2-404-error-occur-when-i-refresh-through-the-browser)
  
  9. [How-to-get-route-path-parameters-in-non-routed-angular-components](https://medium.com/@tomastrajan/how-to-get-route-path-parameters-in-non-routed-angular-components-32fc90d9cb52)
+ 
+ 10. [48-answers-on-stack-overflow-to-the-most-popular-angular-questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/)
 
 
 
